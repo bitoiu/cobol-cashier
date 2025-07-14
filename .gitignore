@@ -1,0 +1,27 @@
+# Compiled binaries
+bin/
+
+# Data files (runtime generated)
+data/*.dat
+
+# COBOL intermediate files
+*.o
+*.so
+*.c
+*.i
+*.s
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/ 
